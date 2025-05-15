@@ -13,4 +13,4 @@ Instead, HTML notebooks generated from the R code will be provided to demonstrat
 - `2 LVCF and longitudinal mean imputation.R` contains the R code used to replace missing data with within-time-point mean imputation and Last Value Carried Forward/Backward (LVCF/B).
 ### 📁 Chapter 2
 - `Chapter 2.R` contains the R code used to perform Latent Profile Analysis in **Chapter 2: Thriving or Surviving? A Latent Profile Analysis of Resilience, Psychological Well-being, and Professional Quality of Life in Early-career Veterinarians in Canada**
-- The accompanying file `Chapter 2 - R Notebook.html` shows the generated output.
+- The accompanying file `Chapter 2 - R Notebook.html` shows the generated output. I recommend downloading the file to view on your computer.
