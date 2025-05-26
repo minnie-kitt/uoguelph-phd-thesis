@@ -1,5 +1,5 @@
 ## This is the R Code associated with 'Chapter 2: Thriving or Surviving? A Latent Profile Analysis of Resilience, Psychological Well-being, and Professional Quality of Life in Early-career Veterinarians in Canada
-## Authors: Daniel Gillis & Tipsarp Kittisiam
+## Authors: Tipsarp Kittisiam & Daniel Gillis
 
 
 ## Load prerequisite packages and functions
@@ -10,7 +10,7 @@ library(tidyLPA)
 library(ggplot2)
 library(tibble)
 library(mclust)
-source("Data Prep/Functions/dg_lpa_functions.R")
+source("Functions/dg_lpa_functions.R")
 
 ## Import data
 df_indiv <- read.csv("~/Desktop/Quant/Analysis/Output/individual_cleaned_scores.csv", header = TRUE, row.names = "X")

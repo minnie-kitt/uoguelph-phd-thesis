@@ -1,4 +1,4 @@
-# Author: Dr. Daniel Gillis
+# Author: Daniel Gillis & Tipsarp Kittisiam
 
 
 ###################
