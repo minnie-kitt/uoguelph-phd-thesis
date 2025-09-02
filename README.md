@@ -1,4 +1,7 @@
-## This is the accompanying GitHub repository of Dr. Tipsarp (Minnie) Kittisiam's Ph.D. Thesis ["Explorations of Emotional Intelligence and Thriving Well-being in Early-career Veterinarians"](https://hdl.handle.net/10214/29012)
+## *Please note that this repository is no longer maintained.*
+*For any changes in the code (re: to accompany published papers), please visit: [https://github.com/tipsarp/uoguelph-phd-thesis](https://github.com/tipsarp/uoguelph-phd-thesis).*
+
+### This is the accompanying GitHub repository of Dr. Tipsarp (Minnie) Kittisiam's Ph.D. Thesis, titled ["Explorations of Emotional Intelligence and Thriving Well-being in Early-career Veterinarians"](https://hdl.handle.net/10214/29012).
 
 This repository contains R code (and related files) used in the quantitative analyses related to chapters 2, 4, and 5. 
 Due to ethical research standards and data protection regulations, participant data will not be shared.
